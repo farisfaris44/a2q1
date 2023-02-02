@@ -15,3 +15,13 @@ def distance(name):
     lines = r.splitlines()
     for x in lines:
         steps.append(x.split())
+    for list1 in steps:
+        for value in list1:
+            if value == 'R':
+                last += 1
+            else:
+                last -= 1
+        print(abs(last))
+        last = 0
+
+distance(example)
