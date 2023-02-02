@@ -1,8 +1,8 @@
-'''Ifrad Hossain
-   qcg520
-   11349288
-   Lab Section 08
-   cmpt145'''
+#Name: Ifrad Hossain
+#NSID: qcg520
+#Student Number: 11349288
+#Lab Section: Lab Section 08
+#Course: cmpt145
 
 example = input("Enter file name: ")
 

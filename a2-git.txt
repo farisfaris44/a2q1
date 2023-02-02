@@ -1,0 +1,33 @@
+Name: Ifrad Hossain
+NSID: qcg520
+Student Number: 11349288
+Lab Section: Lab Section 08
+Course: cmpt145
+
+
+
+commit 87f8f9961fc51044dff3043388fd7a88e685740f
+Author: MasterEGGway <mastereggway@masterEGGways-MacBook-Air.local>
+Date:   Wed Feb 1 19:25:17 2023 -0600
+
+    I added a for loop to keep track of the letter values within the text files
+
+commit a7c11b23d93d6b33a2ef01264e72c75ef231d162
+Author: MasterEGGway <mastereggway@masterEGGways-MacBook-Air.local>
+Date:   Wed Feb 1 19:22:05 2023 -0600
+
+    I split the lines wthin the text file provided
+
+commit 2106ec2ee111f33cb26ec77078f9eeb0aed16431
+Author: MasterEGGway <mastereggway@masterEGGways-MacBook-Air.local>
+Date:   Wed Feb 1 19:19:05 2023 -0600
+
+    I defined certain functions and opened the folder
+
+commit 766e36994e73bdbd541e8e91ebbb61ebb98f1074
+Author: MasterEGGway <mastereggway@masterEGGways-MacBook-Air.local>
+Date:   Wed Feb 1 19:08:53 2023 -0600
+
+    Starter code with my name and NSID
+
+
