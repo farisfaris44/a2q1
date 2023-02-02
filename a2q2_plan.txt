@@ -1,3 +1,8 @@
+#Name: Ifrad Hossain
+#NSID: qcg520
+#Student Number: 11349288
+#Lab Section: Lab Section 08
+#Course: cmpt145
 
 – Design. Your plan will indicate when you will do the design phase (day, time, location), and how
 long you think it will take (duration).
@@ -13,7 +18,20 @@ how long you think it will take (duration).
 
 Design: 
     Location: Murray Building3 Campus Dr, Saskatoon, SK S7N 5A4
-    Day and Time: Wednesday, Feb 1 2023
+    Day and Time: Wednesday, Feb 1 2023, 7PM
     Time Given: 30 mins
 
+Implementation:
+    Location: Murray Building3 Campus Dr, Saskatoon, SK S7N 5A4
+    Day and Time: Wednesday, Feb 1 2023, 7:30PM
+    Time Given: 30 mins
 
+Testing and Debugging:
+    Location: Murray Building3 Campus Dr, Saskatoon, SK S7N 5A4
+    Day and Time: Wednesday, Feb 1 2023, 8PM
+    Time Given: 20 mins
+
+Final Cleanup:
+    Location: Murray Building3 Campus Dr, Saskatoon, SK S7N 5A4
+    Day and Time: Wednesday, Feb 1 2023, 8:20PM
+    Time Given: 20 mins
