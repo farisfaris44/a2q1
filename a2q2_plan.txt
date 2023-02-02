@@ -1,0 +1,19 @@
+
+– Design. Your plan will indicate when you will do the design phase (day, time, location), and how
+long you think it will take (duration).
+
+– Implementation. Indicate when you will work on the implementation phase (day, time, location),
+using your design, and how long you think it will take (duration).
+
+– Testing and debugging. Indicate when you will work on testing and debugging (day, time, loca-
+tion), and how long you think it will take(duration).
+
+– Final clean up for submission. Indicate when you will work on clean-up (day, time, location), and
+how long you think it will take (duration).
+
+Design: 
+    Location: Murray Building3 Campus Dr, Saskatoon, SK S7N 5A4
+    Day and Time: Wednesday, Feb 1 2023
+    Time Given: 30 mins
+
+
