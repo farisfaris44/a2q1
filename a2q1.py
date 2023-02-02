@@ -13,3 +13,5 @@ def distance(name):
     a = open(name, 'r')
     r = a.read()
     lines = r.splitlines()
+    for x in lines:
+        steps.append(x.split())
