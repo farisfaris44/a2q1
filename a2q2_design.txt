@@ -1,0 +1,32 @@
+Function 1: distance(name)
+
+Inputs:
+name: string, the name of the datafile to be opened
+
+Outputs:
+None, this function will print out the distances of each random walk
+
+Pseudo-code:
+Initialize last to 0 and steps as an empty list
+
+Open the datafile with the name name and read the contents into a variable r
+
+Split the contents of r into a list lines based on newline characters
+
+Loop through each line in lines and split it into a list of steps and append the list to steps
+
+Loop through each list of steps in steps
+a. If the step is 'R', add 1 to last
+b. If the step is 'L', subtract 1 from last
+
+Print the absolute value of last
+
+Reset last to 0 and repeat the loop for the next list of steps
+
+Test Cases:
+Test input: 'R L L R'
+Test output: 0
+Test input: 'L R R L R'
+Test output: 1
+Test input: 'R R R'
+Test output: 3
