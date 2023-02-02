@@ -1,3 +1,9 @@
+#Name: Ifrad Hossain
+#NSID: qcg520
+#Student Number: 11349288
+#Lab Section: Lab Section 08
+#Course: cmpt145
+
 Function 1: distance(name)
 
 Inputs:
