@@ -1,10 +1,15 @@
-Name: Ifrad Hossain
-NSID: qcg520
-Student Number: 11349288
-Lab Section: Lab Section 08
-Course: cmpt145
+#Name: Ifrad Hossain
+#NSID: qcg520
+#Student Number: 11349288
+#Lab Section: Lab Section 08
+#Course: cmpt145
 
 
+commit 104de3a4d05435184073d3138dae36608a182fac
+Author: MasterEGGway <mastereggway@masterEGGways-MacBook-Air.local>
+Date:   Wed Feb 1 19:32:52 2023 -0600
+
+    I fixed the formatting of my name
 
 commit 87f8f9961fc51044dff3043388fd7a88e685740f
 Author: MasterEGGway <mastereggway@masterEGGways-MacBook-Air.local>
@@ -29,5 +34,3 @@ Author: MasterEGGway <mastereggway@masterEGGways-MacBook-Air.local>
 Date:   Wed Feb 1 19:08:53 2023 -0600
 
     Starter code with my name and NSID
-
-
